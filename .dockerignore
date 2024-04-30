@@ -1,0 +1,5 @@
+.git/
+dist/
+docker-compose.yaml
+Dockerfile
+node_modules/
